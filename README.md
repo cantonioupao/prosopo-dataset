@@ -9,5 +9,7 @@ The dataset has been used to extensively evaluate the performance of the 2 frame
 
 Overall, this dataset, can be used for either evaluation or training of single-view face 3D reconstruction models. More details about the dataset or the download link, can be found [here](https://www.kaggle.com/datasets/cantonioupao/prosopo-a-face-dataset-for-3d-reconstruction). 
 
+In case, you need a dataset with the 3D face object (.ply), the depth image, EG3D latent code and synthetic high quality face images, you can take a look [here](https://www.kaggle.com/datasets/cantonioupao/synthetic-human-faces-for-3d-reconstruction)
+
 
 
